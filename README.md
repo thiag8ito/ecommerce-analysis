@@ -58,6 +58,7 @@ Datetime / Timedelta – Manipulação de datas
 Random – Geração de amostras aleatórias
 
 ⚙️ 6. Etapas do Processo
+
 1️⃣ Geração de Dados Fictícios
 Os dados foram criados dentro do próprio script, simulando um cenário real de e-commerce com:
 - Produtos, categorias, preços
