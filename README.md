@@ -32,9 +32,13 @@ Decisões Baseadas em Dados: Desenvolvimento de uma cultura orientada por dados,
 🧰 5. Tecnologias Utilizadas
 Python 3.10+
 Pandas – Manipulação e análise de dados (-v 2.2.3
+
 NumPy – Operações matemáticas e numéricas (-v 1.26.4
+
 Matplotlib / Seaborn – Visualização de dados (-v 3.9.2 / -v 0.13.2
+
 Datetime / Timedelta – Manipulação de datas
+
 Random – Geração de amostras aleatórias
 
 ⚙️ 6. Etapas do Processo
